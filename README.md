@@ -1,4 +1,4 @@
-### Hey, [Retxxu](https://github.com/Retxxu) 👋
+### Hey, [Retxxu](https://github.com/lrlizandroro-rgb) 👋
 
 <img src="unohana.gif" alt="Unohana GIF" align="right" width="280"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Retxxu" alt="Retxxu" /> </p>
