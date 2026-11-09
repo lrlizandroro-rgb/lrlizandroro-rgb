@@ -1,12 +1,12 @@
 ### Hey, [Retxxu](https://github.com/Retxxu) 👋
 
 <!-- Reemplaza la URL de src con la dirección directa que copiaste del GIF de Tenor (debe ser tipo https://media.tenor.com/.../algo.gif) o usa src="./unohana.gif" si subiste el archivo a tu repositorio -->
-<img src="URL_DIRECTA_DE_TU_GIF.gif" alt="Unohana GIF" align="right" width="280"/>
+<img src="https://tenor.com/l1tw4uTMRWt.gif" alt="Unohana GIF" align="right" width="280"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Retxxu" alt="Retxxu" /> </p>
 
 Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
-
+https://github.com/lrlizandroro-rgb/lrlizandroro-rgb/blob/main/README.md
 ## 💻 Technologies I Love
 - Flutter
 - Machine Learning
